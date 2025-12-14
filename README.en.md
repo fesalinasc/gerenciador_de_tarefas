@@ -67,4 +67,4 @@ Tasks are handled through the `task_manager.py` module.
 
 **Felipe Salinas Caodaglio**
 
----
+
