@@ -72,4 +72,3 @@ As tarefas são manipuladas através do módulo `task_manager.py`.
 
 **Felipe Salinas Caodaglio**
 
----
